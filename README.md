@@ -1,7 +1,7 @@
 <h1 align="center"> Desafio Biscoito da Sorte 🥠</h1>
 
 <p align="justify">
-Neste desafio você deverá criar um jogo chamado Biscoito da Sorte, no qual o usuário,<br> 
+Neste desafio você deverá criar um jogo chamado Biscoito da Sorte, no qual o usuário, 
 <strong>a partir de um clique ou enter**</strong>, abre um biscoito com a sua sorte do dia.<br>
 Você aplicará o que aprendeu sobre vários temas, entre eles:
 <ul>
