@@ -32,8 +32,7 @@
 
 ## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
+This project was developed using the following technologies:
 - HTML e CSS
 - JavaScript
 - Git e Github
@@ -41,7 +40,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-<p> Aqui neste <a href="https://www.figma.com/community/file/1182751789348533739">Link</a> você tem acesso ao Figma do projeto.</p>
+You can preview the project layout through <a href="https://www.figma.com/community/file/1182751789348533739">Link</a>. It's necessary to have an account on [Figma](https://figma.com) to access it.
+
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 
