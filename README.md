@@ -1,35 +1,36 @@
-<h1 align="center"> Desafio Biscoito da Sorte 🥠</h1>
+<h1 align="center"> Fotune Cookie 🥠</h1>
 
 <p align="justify">
-Neste desafio você deverá criar um jogo chamado Biscoito da Sorte, no qual o usuário, 
-<strong>a partir de um clique ou enter</strong>, abre um biscoito com a sua sorte do dia.<br>
-<br>
-Você aplicará o que aprendeu sobre vários temas, entre eles:
-<ul>
-  <li>Estrutura de dados HTML</li>
-  <li>Animações com CSS</li>
-  <li>Funções no Javascript</li>
-  <li>Manipulação da DOM</li>
-  <li>Biblioteca JS Math()</li>
-  <li>Funções *callback*</li>
-  <li>Arrays</li>
-</ul>
+  In this challenge, you will create a game called Fortune Cookie, in which the user, 
+  <strong>with a click or press of the enter key</strong>, opens a cookie revealing their fortune for the day.<br>
+  <br>
+  You will apply what you've learned about various topics, including:
+  <ul>
+    <li>HTML data structure</li>
+    <li>CSS animations</li>
+    <li>JavaScript functions</li>
+    <li>DOM manipulation</li>
+    <li>JS Math() library</li>
+    <li>Callback functions</li>
+    <li>Arrays</li>
+  </ul>
 </p>
 
+
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
 <p align="center">
-  <img alt="layout desafio blog de gatos" src="github/screen01.png" width="100%">
+  <img alt="challange first page" src="github/screen01.png" width="100%">
 </p>
 <p align="center">
-  <img alt="layout desafio blog de gatos" src="github/screen02.png" width="100%">
+  <img alt="challange second page" src="github/screen02.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
