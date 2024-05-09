@@ -1,15 +1,15 @@
 const cookieMessages = [
-    "O sucesso está no horizonte, mantenha o foco.",
-    "Grandes realizações exigem grandes esforços.",
-    "Seja corajoso em suas decisões e confiante em seus passos.",
-    "A sorte favorece os audazes.",
-    "Acredite em si mesmo e tudo será possível.",
-    "A paciência é uma virtude que traz grandes recompensas.",
-    "As oportunidades estão sempre ao seu redor, apenas esteja pronto para agarrá-las.",
-    "O amor é a maior força do universo, compartilhe-o generosamente.",
-    "Aprenda com o passado, viva no presente e sonhe com o futuro.",
-    "A perseverança é a chave para superar todos os obstáculos.",
-    "Grandes sonhos começam com pequenas ações."
+    "A smile is your passport into the hearts of others.",
+    "Your hard work will soon pay off.",
+    "Every exit is an entry somewhere else.",
+    "You are the master of every situation.",
+    "Good things come to those who wait.",
+    "Your kindness will lead you to success.",
+    "The best is yet to come.",
+    "A dream you dream alone is only a dream. A dream you dream together is reality.",
+    "Opportunity knocks softly, listen carefully.",
+    "Believe in yourself and all that you are.",
+    "Life is a journey, not a destination."
 ];
 
 

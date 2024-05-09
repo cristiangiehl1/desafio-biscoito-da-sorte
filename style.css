@@ -101,7 +101,7 @@ div {
 
 .home img:hover {
     /*
-        animation: nomeDaAnimacao duração [timing-function] [delay] [iteration-count] [direction] [fill-mode] [play-state];
+        animation: animationName duration [timing-function] [delay] [iteration-count] [direction] [fill-mode] [play-state];
 
     */
     animation: shake .5s ease-in-out infinite forwards;
